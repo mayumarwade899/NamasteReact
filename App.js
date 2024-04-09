@@ -35,7 +35,9 @@ const Heading3 = () => (
   <div id="container">
     {/* {number} */}
     {/* <h2>{number}</h2> */}
-    {jsxHeading}
+    {/* {jsxHeading} */}
+    {/* <Heading1 /> */}
+    {Heading1()}
     <h1>{100 + 200}</h1>
     <h1 className="heading">Hello from Functional Component(Heading2)</h1>
   </div>
